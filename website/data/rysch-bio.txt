@@ -1,0 +1,3 @@
+I am a first year PhD student at The University of North Carolina at Chapel Hill Department of Computer Science (https://cs.unc.edu/), where I work in the Graphics & Virtual Reality Group (https://telepresence.web.unc.edu/people/) as a part of the Computer Vision & Artificial Intelligence Lab.
+
+At UNC I worked under the advise of Professors Henry Fuchs (https://henryfuchs.web.unc.edu/) and Praneeth Chakravarthula (https://www.cs.unc.edu/~cpk/) on projects related to computer vision, 3D displays, novel view reconstruction, audio processing, and augmented reality systems over the course of my undergraduate and graduate careers at UNC. 
